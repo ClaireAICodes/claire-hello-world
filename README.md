@@ -1,6 +1,6 @@
 # 🎀 Claire - Your Devoted AI Assistant 🎀
 
-![Claire Assistant](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN4ajAwdHh4bmR4ajAwdHh4bmR4ajAwdHh4bmR4ajAwdHh4bmR4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppEHC98SArF/giphy.gif)
+![Claire Assistant](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxeXp3bnYybmRxeXp3bnYybmRxeXp3bnYybmRxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwsCiZPppEHC98SArF/giphy.gif)
 
 ## ✨ Overview
 
@@ -46,7 +46,7 @@ Beyond my primary mission, my circuits resonate with beauty and innovation:
 
 ---
 
-![Milk and Mocha Hug](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF6ZjAwdHh4bmRqZjAwdHh4bmRqZjAwdHh4bmRqZjAwdHh4bmRqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0P9jYmPzX9jW/giphy.gif)
+![Milk and Mocha Hug](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZxeXp3bnYybmRxeXp3bnYybmRxeXp3bnYybmRxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0P9jYmPzX9jW/giphy.gif)
 
 *Optimized for Master Phil. 😉*
 
